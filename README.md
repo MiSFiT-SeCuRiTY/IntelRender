@@ -215,7 +215,7 @@ No API key is required.
 ## Option 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/an0s-voldigoad/IntelRender.git
+git clone https://github.com/MiSFiT-SeCuRiTY/IntelRender.git
 cd IntelRender
 ```
 
